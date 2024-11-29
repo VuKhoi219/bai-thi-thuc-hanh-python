@@ -227,3 +227,8 @@ if __name__ == "__main__":
                 add_doctor()
         elif choice == 3:
             add_appointment()
+        elif choice == 4:
+            print("Danh sách bệnh nhân:")
+
+        elif choice == 5:
+            break
